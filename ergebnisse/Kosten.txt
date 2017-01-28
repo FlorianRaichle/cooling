@@ -1,0 +1,3 @@
+Gesamtkosten [EUR]
+Pumpe 2   	Pumpe 3   	Pumpe 4   	Pumpe 5   	Pumpe 6   	Pumpe 7   	Pumpe 8   	Pumpe 9   	
+198082    	173641    	172213    	154149    	161160    	165658    	167412    	176567    	

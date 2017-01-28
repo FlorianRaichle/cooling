@@ -1,0 +1,10 @@
+Pumpen	P	eta
+Pumpe 1	10	0.65
+Pumpe 2	15	0.7
+Pumpe 3	20	0.75
+Pumpe 4	25	0.8
+Pumpe 5	30	0.85
+Pumpe 6	35	0.9
+Pumpe 7	40	0.95
+Pumpe 8	45	0.95
+Pumpe 9	50	0.95

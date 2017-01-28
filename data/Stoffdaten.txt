@@ -1,0 +1,3 @@
+Stoff			Wasser
+Dichte [kg/m^3]	1000
+Viskosität[]	0.001

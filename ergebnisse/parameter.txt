@@ -1,0 +1,3 @@
+Parameter des Polynoms
+a0        	a1        	a2        	
+268398    	-6242.22  	88.9131   	

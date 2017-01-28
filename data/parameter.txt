@@ -1,0 +1,4 @@
+Kostenparameter
+Pumpenkosten	406		4011	5
+Rohrkosten		16458	2109	151
+Stromkosten		0.05
