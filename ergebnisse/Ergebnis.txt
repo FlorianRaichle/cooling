@@ -1,3 +1,3 @@
 optimale Pumpe
 Leistung [kW]	
-35.1029   	
+32.8769   	

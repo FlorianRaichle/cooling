@@ -4,7 +4,7 @@
 */
 
 #include "header.h"
-#include "tests.h"
+//#include "tests.h"
 
 const bool dev = true; // set true for debugging
 
@@ -125,7 +125,7 @@ int main(){
     Pumpe.titel = "optimale Pumpe";
     Pumpe.spalten.push_back("Leistung [kW]");
     Pumpe.daten.push_back(std::vector<double>(1));
-    double min = Pumpen[0][Pumpen[0].size()];
+    double min = Pumpen[0][Pumpen[0].size()-1];
     double min1;
     for(int i = 10; i < Pumpen[0][Pumpen[0].size()-1]; i += 10){
         min1 = min;

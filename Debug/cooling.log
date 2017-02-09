@@ -1,0 +1,37 @@
+﻿  read.cpp
+read.cpp(37): warning C4018: '<': signed/unsigned mismatch
+read.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  newt.cpp
+  minimum.cpp
+minimum.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+main.cpp(46): warning C4018: '<': signed/unsigned mismatch
+main.cpp(68): warning C4018: '<': signed/unsigned mismatch
+main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+main.cpp(92): warning C4018: '<': signed/unsigned mismatch
+main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+main.cpp(117): warning C4018: '<': signed/unsigned mismatch
+  gesamtkosten.cpp
+gesamtkosten.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Gauss.cpp
+Gauss.cpp(104): warning C4018: '<': signed/unsigned mismatch
+Gauss.cpp(108): warning C4018: '<': signed/unsigned mismatch
+Gauss.cpp(118): warning C4018: '<': signed/unsigned mismatch
+  compare.cpp
+compare.cpp(9): warning C4018: '<': signed/unsigned mismatch
+compare.cpp(11): warning C4018: '<': signed/unsigned mismatch
+compare.cpp(18): warning C4018: '<': signed/unsigned mismatch
+compare.cpp(34): warning C4018: '<': signed/unsigned mismatch
+compare.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  ausgabe.cpp
+ausgabe.cpp(19): warning C4018: '<': signed/unsigned mismatch
+ausgabe.cpp(23): warning C4018: '<': signed/unsigned mismatch
+ausgabe.cpp(25): warning C4018: '>': signed/unsigned mismatch
+ausgabe.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\florian\documents\github\cooling\minimum.cpp(37): warning C4715: 'minimum': not all control paths return a value
+  cooling.vcxproj -> C:\Users\Florian\Documents\GitHub\cooling\Debug\cooling.exe
+  cooling.vcxproj -> C:\Users\Florian\Documents\GitHub\cooling\Debug\cooling.pdb (Full PDB)
